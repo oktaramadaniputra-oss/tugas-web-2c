@@ -41,6 +41,6 @@ header {
 
 .nav li a:hover {
     background-color: aquamarine;
-    columns: white;
+    color: white;
     transition: 2s;
 }
