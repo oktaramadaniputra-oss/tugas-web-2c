@@ -1,0 +1,13 @@
+/* membuat elemen h1 berwarna merah */
+h1 {    
+    color:brown;
+    font-size: 30px;
+}
+h2 {
+    color: aqua;
+    font-size: 25px;
+}
+p{
+    color: darkblue;
+    font-size: 30px;
+}
