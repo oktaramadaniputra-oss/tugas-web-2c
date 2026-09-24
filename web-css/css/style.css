@@ -1,0 +1,46 @@
+
+/* untuk body gunakan warna abu abu */
+body {
+    background-color: darkgray;
+    font-size: 15px;
+    font-family: Arial, sans-serif;
+}
+
+.container {
+    background-color: aliceblue;
+    width: 800px;
+    margin: auto;
+}
+
+header {
+    padding-top: 20px;
+    padding-right: 20px;
+    padding-left: 20px;
+}
+
+.header .judul{
+    font-size: 40px;
+    font-weight: bold;
+    margin-bottom: 5px;
+}
+
+.nav {
+    padding: 0px;
+}
+
+.nav li {
+    display: inline-block;
+    margin-right: 10px;
+    margin-top: 20px;
+}
+
+.nav li a {
+    text-decoration: none;
+    color: navy;
+}
+
+.nav li a:hover {
+    background-color: aquamarine;
+    columns: white;
+    transition: 2s;
+}
